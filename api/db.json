@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "title": "2",
+      "body": "ad",
+      "id": 2
+    },
+    {
+      "title": "3",
+      "body": "123",
+      "id": 3
+    },
+    {
+      "title": "Predicting hospital length-of-stay at time of admission",
+      "body": "dfsff",
+      "id": 4
+    },
+    {
+      "title": "Predicting hospital length-of-stay at time of admission",
+      "body": "dfsff123",
+      "id": 5
+    }
+  ]
+}
